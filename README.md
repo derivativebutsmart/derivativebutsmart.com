@@ -7,7 +7,7 @@ Static marketing site for Derivative But Smart LLC and its apps.
 - `index.html` — company home
 - `pdfvault/` — PDFVault product page
 - `pdfvault/privacypolicy/`, `pdfvault/tos/` — PDFVault legal pages
-- `styles.css`, `logoV1.png` — shared assets
+- `styles.css`, `pdfLogo.png` — shared assets
 
 All asset and link paths are **root-absolute** (`/styles.css`, `/pdfvault`),
 so they resolve identically regardless of page depth. This means the site
